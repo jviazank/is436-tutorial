@@ -1,28 +1,35 @@
-= Tutorial Title Name
+= Python for Beginners
 
-Author: Your Name Here
+Author: Jared Viazanko
 
-== Intro
+== Python
 
-Describe the goals and purpose of the tutorial here. You can change "Intro" to something meaningful about your tutorial, such as "About Wireshark Filters."
+Python is a very strong and easy to learn/read programming language used majorly for scripting, or task automation. Learning Python is a great way to get into programming and is extremely useful. In this tutorial you will learn how to install python along with and IDE, and the basic variables along with writing your first simple program.
+
+Learning Objective
+
+. Basic understanding of Python
+. Able to read and comprehend basic code
+. How to install and setup python along with an IDE
 
 == Prerequisites
 
 The "*" is a bulleted list. If this can only be done on a Windows computer, using Packet Tracer, or any other technology, list those prerequisites here.
 
-* VirtualBox
-* Kali Virtual Machine
+* Windows
+* Internet connection for downloads
 
 == Instructions
 
 Guide the person through the steps. Starting a line with a period is an automatically numbered list.
 
-. Step one.
-. Step two.
-. Step three. Use "+" and the  backtick character to add additional command.
+. install python from: https://www.python.org/downloads/ , the latest version will be what we are using. If you already have python installed, just upgrade from current version, if not the default values and paths for a fresh install is perfectly fine.
+. next we will be installing PyCharm from JetBrains from: https://www.jetbrains.com/pycharm/download/#section=windows , the community version is the one we will be using. Again the default settings are fine, changing the installation path is up to you incase you want it installed on a different drive.
+. next we will getting into "variables" since Python is a dynamically typed programming language there is not variable definition, the system just knows what kind of variable it is. for the first variable we will discuss strings:
 +
 ```
-sudo su
+string = "Hello"  # A string must always be accompanied by quotation marks, this is how the system knows its the string variable.
+
 ```
 . Step four. Use the following syntax to include screenshots or other images. Note that the "+" is used to include additional content under this bullet point.
 +
@@ -35,13 +42,10 @@ asciidoctor-pdf tutorial.adoc
 
 == Challenge
 
-Provide some meaningful ways for the learner to apply their knowledge in a new way.
+create a simple calculator using your new found knowledge.
 
 Notice that a screenshot can be included in a separate paragraph without the "+".
-
-image::blue-rectangle.png[]
 
 == Reflection
 
 Provide some thought questions that help the learner make sense of how the tutorial fits in the bigger picture.
-
