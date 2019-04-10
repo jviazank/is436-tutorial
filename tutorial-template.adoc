@@ -49,3 +49,5 @@ Notice that a screenshot can be included in a separate paragraph without the "+"
 == Reflection
 
 Provide some thought questions that help the learner make sense of how the tutorial fits in the bigger picture.
+
+asciidoctor-pdf tutorial-template.adoc 
