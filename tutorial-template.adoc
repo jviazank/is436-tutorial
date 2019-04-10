@@ -85,7 +85,7 @@ else:  # as you can see the else statement is used properly and the if else stat
 
 #  That's about it for if and else if statements. Just play around with your own variables and logic to get a further understanding, its pretty straight forward until you get into more complicated programming.
  ```
-
+ ```
 . Now For loops
 
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
