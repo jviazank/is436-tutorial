@@ -52,7 +52,7 @@ print(e)
 
 make sure you run the script by either pressing "alt+shift+f10", or simply going to the run tab and clicking run.
 
-```
+//// ``` remove these, they're in a random spot
 . Now lets dabble into IF statements
 
 If statements just like in most programming language are used as a logic statement to have the computer make a decision such as:
