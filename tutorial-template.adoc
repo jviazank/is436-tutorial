@@ -14,14 +14,10 @@ Learning Objective
 
 == Prerequisites
 
-The "*" is a bulleted list. If this can only be done on a Windows computer, using Packet Tracer, or any other technology, list those prerequisites here.
-
 * Windows
 * Internet connection for downloads
 
 == Instructions
-
-Guide the person through the steps. Starting a line with a period is an automatically numbered list.
 
 . install python from: https://www.python.org/downloads/ , the latest version will be what we are using. If you already have python installed, just upgrade from current version, if not the default values and paths for a fresh install is perfectly fine.
 . next we will be installing PyCharm from JetBrains from: https://www.jetbrains.com/pycharm/download/#section=windows , the community version is the one we will be using. Again the default settings are fine, changing the installation path is up to you incase you want it installed on a different drive.
