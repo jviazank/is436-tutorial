@@ -83,6 +83,10 @@ elif a == b:
 else:  # as you can see the else statement is used properly and the if else statements prints everything correctly.
   print("a is greater than b")
 
+////
+Formatting/compiling Errors Start here
+////
+
 #  That's about it for if and else if statements. Just play around with your own variables and logic to get a further understanding, its pretty straight forward until you get into more complicated programming.
  ```
  ```
@@ -91,7 +95,7 @@ else:  # as you can see the else statement is used properly and the if else stat
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 With a for loop we can execute a set of statements for each item in a list, or data set.
 
-Eaxmples:
+Examples: //Fixed Spelling Error
 
  ```
 # we will print every super hero from the list of super hero's
@@ -142,6 +146,9 @@ for x in adj:
 
  ```
 
+////
+Formatting/Compiling Error Ends Here
+////
 Thats all the basic knowledge one should have of python to begin programming, the best way to learn python like any other thing is life is to just get out there and do it. With this basic knowledge you should be able to jump into bigger problems and work them out with your own logic, or at least be able to understand and read what's going on.
 
 == Challenge
