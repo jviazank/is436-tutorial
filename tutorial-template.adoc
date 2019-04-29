@@ -19,8 +19,6 @@ Learning Objective
 
 == Instructions
 
-Guide the person through the steps. Starting a line with a period is an automatically numbered list.
-
 . install python from: https://www.python.org/downloads/ , the latest version will be what we are using. If you already have python installed, just upgrade from current version, if not the default values and paths for a fresh install is perfectly fine.
 . next we will be installing PyCharm from JetBrains from: https://www.jetbrains.com/pycharm/download/#section=windows , the community version is the one we will be using. Again the default settings are fine, changing the installation path is up to you incase you want it installed on a different drive.
 . next we will getting into "variables" since Python is a dynamically typed programming language there is not variable definition, the system just knows what kind of variable it is. for the first variable we will discuss strings:
